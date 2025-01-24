@@ -8,7 +8,7 @@ This report details the optimization process for an OpenCL kernel designed to re
 
 ## 🎯 Problem Statement
 
-The challenge involves finding a specific 12-word BIP39 mnemonic phrase that generates a target Bitcoin address (1EciYvS7FFjSYfrWxsWYjGB8K9BobBfCXw). The search space is limited to 34 predefined Portuguese words:
+The challenge involves finding a specific 12-word BIP39 mnemonic phrase that generates a target Bitcoin address X. The search space is limited to 34 predefined Portuguese words:
 
 ```
 inocente, baseado, global, cadeado, camada, uniforme,
