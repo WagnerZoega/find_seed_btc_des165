@@ -6,7 +6,7 @@ Este relatório detalha o processo de otimização de um kernel OpenCL projetado
 
 ## 🎯 Definição do Problema
 
-O desafio consiste em encontrar uma frase mnemônica BIP39 específica de 12 palavras que gera um endereço Bitcoin alvo (1EciYvS7FFjSYfrWxsWYjGB8K9BobBfCXw). A busca é limitada a 34 palavras pré-definidas em português:
+O desafio consiste em encontrar uma frase mnemônica BIP39 específica de 12 palavras que gera um endereço Bitcoin alvo X, A busca é limitada a 34 palavras pré-definidas em português:
 
 ```
 inocente, baseado, global, cadeado, camada, uniforme,
